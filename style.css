@@ -1,0 +1,24 @@
+.container{
+    background-color: beige;
+    margin: 2%;
+    padding: 15px;
+    border-radius: 5px;
+    border: solid 2px black;
+    box-shadow: 15px 15px 15px black ;
+    
+    }
+    
+    
+    
+    input{
+     margin-bottom: 3px;
+    
+    
+    
+    }
+    
+    
+    
+    h1{
+        font-family: sans-serif;
+    }
